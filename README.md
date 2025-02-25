@@ -39,10 +39,10 @@ Enabled **traffic flow visualization** and **automated network diagnostics** for
 4. Use **debugging & monitoring tools** to analyze performance.
 
 ## 👥 Contributors
-- **Shameer Awais** - Network Architecture Design & SDN Implementation  
-- **Rooshan Riaz** - Security & Access Control Implementation  
-- **Umar Maqsood** - OSPF Routing & VLAN Configurations  
-- **Haroon Sheikh** - Network Monitoring & Debugging  
+- **Shameer Awais** - 
+- **Rooshan Riaz** - 
+- **Umar Maqsood** - 
+- **Haroon Sheikh** - 
 
 ---
 
